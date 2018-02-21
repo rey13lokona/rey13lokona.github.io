@@ -12,7 +12,7 @@ Grande desenvolvedora de jogos, e futuro desse país, estou aqui aprendendo a fa
 
 ## Games 
 
-[JOGO1](https://elielton90.github.io/Akili/]
+![[JOGO1]](https://elielton90.github.io/Akili/]
 
 ## Artes 
 
