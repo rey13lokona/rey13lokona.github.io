@@ -26,16 +26,12 @@ Sou aluna do terceiro ano de programação de Jogos Digitais, faço o IFRN no ca
 
 ## Projetos 
 
-**negrito   
-_itálico   
-~~riscado  
+**Aceitação e valorização da cultura Afro    
+**Equipe de comunicação do campus Ceará-Mirim 
+**Limpeza do rio Maceió 
 
 * * *
 #s Uma ou mais hashtags criam capítulos ou subcapítulos 
 
-* oii
-
-1. miga 
-
-1s cria lista d enumeros ordenadas 
+** 
 
