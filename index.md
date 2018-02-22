@@ -16,7 +16,7 @@ Sou aluna do terceiro ano de programação de Jogos Digitais, faço o IFRN no ca
 
 ## Artes 
 
-![CAT](http://pixelartmaker.com/art/efc87341d090c7f.png)
+![](preto.png)
 
 ![UNI](https://data.whicdn.com/images/303322267/original.gif)
 
