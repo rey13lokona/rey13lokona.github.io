@@ -2,11 +2,11 @@
 layout: default 
 ---
 
-Criando **minha** _página_ ~~principal~~.
+Criando minha página na WEB.
 
 # Quem sou eu?
 
-Grande desenvolvedora de jogos, e futuro desse país, estou aqui aprendendo a fazer um portifólio e ficar rica, muito ricaaaaaaaaaaaaa. 
+Sou aluna do terceiro ano de programação de Jogos Digitais, faço o IFRN no campus Ceará-Mirim.Sou desenvolvedora de jogos, tenho conhecimentos em Photoshop, Animate, CorelDRAW, Audacity, Construct 2 e outros aplicatavos, como o DEV e NetBeans, que eu uso para programar em C/C++ e java, respectivamente. 
 
 # Portifólio 
 
