@@ -10,6 +10,8 @@ Sou aluna do terceiro ano de programação de Jogos Digitais, faço o IFRN no ca
 
 ![](arte.png)
 
+Obs: Sou a mulher maravilha nos tempos vagos, mas não conta para ninguém, segredinho nosso...
+
 # Portifólio 
 
 
