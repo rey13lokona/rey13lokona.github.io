@@ -2,13 +2,17 @@
 layout: default 
 ---
 
-Criando minha página na WEB.
+Essa é minha página na WEB.
 
 # Quem sou eu?
 
 Sou aluna do terceiro ano de programação de Jogos Digitais, faço o IFRN no campus Ceará-Mirim. Sou desenvolvedora de jogos, tenho conhecimentos em Photoshop, Animate, CorelDRAW, Audacity, Construct 2 e outros aplicatavos, como o DEV e NetBeans, que eu uso para programar em C/C++ e Java, respectivamente. 
 
+![](foto.png)
+
 # Portifólio 
+
+
 
 ## Games 
 
