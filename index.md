@@ -26,7 +26,7 @@ Esse portifólio é uma exigência do professor Marcelo Barros, para complentar 
 ***
 ## Empresas 
 ***
-![](co1.png)   ![](cafe1.png)   ![](triii.png)   
+![](co1.png)            ![](cafe1.png)           ![](triii.png)   
 
 
 ## Projetos 
