@@ -13,20 +13,15 @@ Sou aluna do terceiro ano de programação de Jogos Digitais, faço o IFRN no ca
 # Portifólio 
 
 
+Esse portifólio é uma exigência do professor Marcelo Barros, para complentar a nota do quarto bimestre da disciplina de motores, e aqui exibirei minhas experiências na área de jogos, projetos e outras coisas relevantes sobre mim.    
+
 
 ## Games 
 
-![[JOGO1]](https://elielton90.github.io/Akili/]
+![[JOGO1]](https://julianabl.github.io/Ventania/]
 
 ## Artes 
 
-![](preto.png)
-
-![UNI](https://data.whicdn.com/images/303322267/original.gif)
-
-![](unii.png)
-
-[_!_[](uni.png)](link) 
 
 ## Projetos 
 
