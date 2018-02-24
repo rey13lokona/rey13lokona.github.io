@@ -32,7 +32,7 @@ Terceiro jogo proposto na matéria de Oficina, o objetivo do jogo é simular que
 
 ## Artes 
 ***
-###Mapa de influência
+Mapa de influência
 Um artista de verdade sempre têm boas referências para usar de inspiração, e para organizar essas ideias usamos um mapa de influência. 
 ![](mapa.png)
 
