@@ -55,4 +55,8 @@ Triangle Games: Minha terceira empresa.
 
 -Estou fazendo um jogo para o RPP sobre a escravidão, tendo como Orientador o professor Ricardo (professor de história). 
 
+## Contatos
+***
+Email: tereza.cm01@gmail.com (pessoal) / princesadigital01@gmail.com (para trabalho)
+
 
