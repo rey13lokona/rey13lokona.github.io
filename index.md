@@ -4,9 +4,9 @@ layout: default
 
 Essa é minha página na WEB.
 
-# Quem sou eu?
+# Informações Pessoais: 
 ---
-Sou aluna do terceiro ano de programação de Jogos Digitais, faço o IFRN no campus Ceará-Mirim. Sou desenvolvedora de jogos, tenho conhecimentos em Photoshop, Animate, CorelDRAW, Audacity, Construct 2 e outros aplicatavos, como o DEV e NetBeans, que eu uso para programar em C/C++ e Java, respectivamente. Tenho 16 anos, e amo o que eu faço. 
+Meu nome é Tereza Martins e faz 16 anos que concilio a vida de horoína e humana, além de programar Jogos Digitais. 
 
 ![](arte.png)
 
