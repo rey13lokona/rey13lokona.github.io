@@ -27,7 +27,7 @@ Foi meu primeiro jogo, é um jogo de terceira pessoa, onde o jogador viaja pelo 
 Foi o segundo jogo da matéria de Oficina de Jogos, nesse jogo você precisa organizar as cartas na caixa de correio e assim combinar as cores das cartas, igual a da caixa. 
 
 -THE JOURNEY
-![](the.png)
+[![](the.png)](https://amanda13.github.io/amanda13.github.io/TheJourney/)
 Terceiro jogo proposto na matéria de Oficina, o objetivo do jogo é simular que você é uma mãe que precisa de ajuda, para cuidar do seu bebê.
 
 ***
