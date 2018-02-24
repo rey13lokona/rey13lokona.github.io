@@ -30,9 +30,8 @@ Foi o segundo jogo da matéria de Oficina de Jogos, nesse jogo você precisa org
 ![](the.png)
 Terceiro jogo proposto na matéria de Oficina, o objetivo do jogo é simular que você é uma mãe que precisa de ajuda, para cuidar do seu bebê.
 
-## Artes 
 ***
-Mapa de influência
+## Mapa de influência
 Um artista de verdade sempre têm boas referências para usar de inspiração, e para organizar essas ideias usamos um mapa de influência. 
 ![](mapa.png)
 
@@ -48,5 +47,9 @@ Triangle Games: Minha terceira empresa.
 
 ## Projetos 
 ***
+Faço parte da Equipe de Comunicação do IFRN, campus Ceará-Mirim.
+Sou integrante de um projeto sobre a aceitação e valorização da cultura Afro. 
+Participei e ministrei cursos na I Expotec - Campus Ceará-Mirim.
+Estou fazendo um jogo para o RPP sobre a escravidão, tendo como Orientador o professor Ricardo (professor de história). 
 
 
