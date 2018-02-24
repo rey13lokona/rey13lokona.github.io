@@ -47,12 +47,12 @@ Triangle Games: Minha terceira empresa.
 
 ## Projetos 
 ***
-#Faço parte da Equipe de Comunicação do IFRN, campus Ceará-Mirim.
+-Faço parte da Equipe de Comunicação do IFRN, campus Ceará-Mirim.
 
-#Sou integrante de um projeto sobre a aceitação e valorização da cultura Afro. 
+-Sou integrante de um projeto sobre a aceitação e valorização da cultura Afro. 
 
-#Participei e ministrei cursos na I Expotec - Campus Ceará-Mirim.
+-Participei e ministrei cursos na I Expotec - Campus Ceará-Mirim.
 
-#Estou fazendo um jogo para o RPP sobre a escravidão, tendo como Orientador o professor Ricardo (professor de história). 
+-Estou fazendo um jogo para o RPP sobre a escravidão, tendo como Orientador o professor Ricardo (professor de história). 
 
 
