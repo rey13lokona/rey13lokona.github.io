@@ -13,7 +13,7 @@ Meu nome é Tereza Martins e faz 16 anos que concilio a vida de heroína e human
 # Portifólio 
 ***
 
-Esse portifólio é uma exigência do professor Marcelo Barros, para completar a nota do quarto bimestre da disciplina de motores, e aqui exibirei minhas experiências na área de jogos, projetos e outras coisas relevantes sobre mim.    
+Esse portifólio é uma avaliação do professor Marcelo Barros, para completar a nota do quarto bimestre da disciplina de motores, e aqui exibirei minhas experiências na área de jogos, projetos e outras coisas relevantes sobre mim.    
 
 
 ## Games 
